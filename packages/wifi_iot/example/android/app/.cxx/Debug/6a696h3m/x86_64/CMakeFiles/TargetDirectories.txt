@@ -1,0 +1,2 @@
+/Users/fermento/Development/Filledstacks/golf/WiFiFlutter/packages/wifi_iot/example/android/app/.cxx/Debug/6a696h3m/x86_64/CMakeFiles/edit_cache.dir
+/Users/fermento/Development/Filledstacks/golf/WiFiFlutter/packages/wifi_iot/example/android/app/.cxx/Debug/6a696h3m/x86_64/CMakeFiles/rebuild_cache.dir
